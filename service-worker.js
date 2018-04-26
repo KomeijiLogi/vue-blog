@@ -21,11 +21,11 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.1.0/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "7b129f40cfb3f91fe8b4c3911f828ddc"
+    "revision": "213d1f0fcdaf23adc22b65c9ad82d938"
   },
   {
-    "url": "assets/css/0.styles.c7dca50f.css",
-    "revision": "bac24478a1af1428b44598ac9c991f01"
+    "url": "assets/css/0.styles.362a7fb6.css",
+    "revision": "65d59c9d630086000537bd7ea3794868"
   },
   {
     "url": "assets/img/search.83621669.svg",
@@ -172,8 +172,8 @@ self.__precacheManifest = [
     "revision": "8f385cafcd3b4cd17bc61c8882a806fd"
   },
   {
-    "url": "assets/js/app.11f0ca7d.js",
-    "revision": "f2e00203dcd41b6ccc0ba26f534c0612"
+    "url": "assets/js/app.21c4b430.js",
+    "revision": "b68d4db221ce265a1640cd17a7d82888"
   },
   {
     "url": "avatar.jpg",
@@ -181,75 +181,75 @@ self.__precacheManifest = [
   },
   {
     "url": "blog/await-async.html",
-    "revision": "827ce0b2b975ca2e654f2229d6945b0e"
+    "revision": "68337eca289d6388290d6817cd66f461"
   },
   {
     "url": "blog/eventloop.html",
-    "revision": "f1645816707f3a2e48a0695f5aa74eac"
+    "revision": "30c1e65b46c31ec58a5040d6834ef0ca"
   },
   {
     "url": "blog/iconfont.html",
-    "revision": "4c4a7986a5f00f69802a825c495bb769"
+    "revision": "f42328c33a85153cd8c12e74969e5753"
   },
   {
     "url": "blog/index.html",
-    "revision": "ccd6936009e8fed0cbdf54246c4fc292"
+    "revision": "78cdd9bcbee777d38a1cedcf61bdd414"
   },
   {
     "url": "blog/jquery-fadein-out.html",
-    "revision": "661aa51de0235b651cb4b57033d4147a"
+    "revision": "6c0f3f8af8687837a6ec7612ae244c7d"
   },
   {
     "url": "blog/npm.html",
-    "revision": "66131a4b41f6c0bbccb6eb822b0aad24"
+    "revision": "0d0f7af6b68ea070ba640f7bfa0e99ce"
   },
   {
     "url": "blog/pic.html",
-    "revision": "8836ae89fcfd1257aadde0c26edd9da5"
+    "revision": "5d17c2dde6b43c7d3a90d2a3a3f4f2c4"
   },
   {
     "url": "config/index.html",
-    "revision": "b10d3c30c62260094958e4c571a91ceb"
+    "revision": "8d6719ea7756c8997fb40959dcf8c524"
   },
   {
     "url": "default-theme-config/index.html",
-    "revision": "1ec2dc3fffc3a86f1f40a217b177b3e5"
+    "revision": "c167e3f47c0e44eae659187a6bf68ea1"
   },
   {
     "url": "guide/assets.html",
-    "revision": "d434113f6ab352a367a7912385de97fb"
+    "revision": "f351754659d8685650804863748bf13f"
   },
   {
     "url": "guide/basic-config.html",
-    "revision": "1567bdf83ab095f58d9b5f9807b45723"
+    "revision": "1dbe4b742124826817a1b5b9e1394405"
   },
   {
     "url": "guide/custom-themes.html",
-    "revision": "2d64a66c7f1eb4201504a4763fe89a86"
+    "revision": "7f21cc303127d032eccc8b36c4b9cfba"
   },
   {
     "url": "guide/deploy.html",
-    "revision": "02e9151bf4c7760dfe01568dd81e97ef"
+    "revision": "4e004b864ade4448973f92a9cbb7b741"
   },
   {
     "url": "guide/getting-started.html",
-    "revision": "b434193baa76ad304adcc930d3134755"
+    "revision": "c0545b673661b769834372e15ab345a9"
   },
   {
     "url": "guide/i18n.html",
-    "revision": "55179f4a4d6e1d85088195391bd31ced"
+    "revision": "4022c3960f4a9a4d71771a24dc727da6"
   },
   {
     "url": "guide/index.html",
-    "revision": "566982653795bedb0ed981f19426ae81"
+    "revision": "8d2fea50cc8156295f6bb622fc468cd0"
   },
   {
     "url": "guide/markdown.html",
-    "revision": "66f68036ae614466b1c1468c1e4eec9c"
+    "revision": "10295bc37fe06e64cb8a789e11578de9"
   },
   {
     "url": "guide/using-vue.html",
-    "revision": "d9b22095e77fb2bab34d102c974ccb11"
+    "revision": "2d823a3ca6604d1c319dcb063641ecb7"
   },
   {
     "url": "hero.png",
@@ -309,11 +309,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "c778c56b7718ee2028ea53f465d92510"
+    "revision": "e8757be52b14e1905936506f9d7b1797"
   },
   {
     "url": "introduce/index.html",
-    "revision": "77c63d56e70d26c2738da2231de35cf5"
+    "revision": "e9a5f0bac96bc1edc798af5eaae82fdd"
   },
   {
     "url": "logo.png",
@@ -321,55 +321,55 @@ self.__precacheManifest = [
   },
   {
     "url": "project/index.html",
-    "revision": "dd0e82d4080947090a9d480aabab0a68"
+    "revision": "83c5427d0a74fabb651c9b105ff698e6"
   },
   {
     "url": "zh/config/index.html",
-    "revision": "d17729b316706757237f5429cd920ea9"
+    "revision": "9d5db440298f1c62c1fd7e73fd7e0f74"
   },
   {
     "url": "zh/default-theme-config/index.html",
-    "revision": "46cd3b7a7578ae5e62078c0e322f3404"
+    "revision": "4668133b40c8abdd6f23b70fbffa6f4a"
   },
   {
     "url": "zh/guide/assets.html",
-    "revision": "e5d69056246527c58767ad1ce50f0694"
+    "revision": "f56c91185135c8007b81f8978c5ab4ab"
   },
   {
     "url": "zh/guide/basic-config.html",
-    "revision": "42e8b90d76a2541272d9973d0f74af59"
+    "revision": "8904c1e0580d7751d6edc35369f453bf"
   },
   {
     "url": "zh/guide/custom-themes.html",
-    "revision": "b10e0fde9bd11c0d90f5a33836df4caf"
+    "revision": "a9e60322603b468a669b8e2235cb7705"
   },
   {
     "url": "zh/guide/deploy.html",
-    "revision": "9b79bbfedee2d7ff9d880036b952a8a4"
+    "revision": "cea266f9d525fcc1e8e1161551d43519"
   },
   {
     "url": "zh/guide/getting-started.html",
-    "revision": "264da4d5e73d672acade931df3ef489c"
+    "revision": "f819054b8778964a8a96e6aad2aa71bd"
   },
   {
     "url": "zh/guide/i18n.html",
-    "revision": "5d3b3658082c4fdb339eeca7d36aa75c"
+    "revision": "1ba8a240051e966d205bf5006577bf88"
   },
   {
     "url": "zh/guide/index.html",
-    "revision": "6eb43b5a0c82d5bde4d309d1fb686f8b"
+    "revision": "055e844b2b9fb46acf48c401ccec1a70"
   },
   {
     "url": "zh/guide/markdown.html",
-    "revision": "c2d23dbb76c38497c4aaf5dde0745c47"
+    "revision": "8bfc3d72deb7ca03d023ad638b6f0e32"
   },
   {
     "url": "zh/guide/using-vue.html",
-    "revision": "3d35b85c489b348b0b292d0b29b639a9"
+    "revision": "052e8295b56e47c07661487d96990083"
   },
   {
     "url": "zh/index.html",
-    "revision": "0f34bdf12cef9f496b15e8ab975e28d4"
+    "revision": "def23ea5217b1a384e0d76753797e94b"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
